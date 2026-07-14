@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "SagiPL",
     "password": "b4mbus",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "LotiMC.aternos.me",
